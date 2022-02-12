@@ -1,8 +1,28 @@
+* {
+    text-align:center;
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+}
+
+ol{
+    display: table;
+    margin: 0 auto;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
 .say-what{
     color:blueviolet;
-    background-color: black;
+    background-color: yellow;
 }
 
 p {
     color: rgb(65, 209, 214);
+    font-family: "Times New Roman", sans-serif;
+    font-size: 24px;
 }
