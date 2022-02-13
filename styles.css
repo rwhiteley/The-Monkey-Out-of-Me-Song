@@ -1,28 +1,60 @@
 * {
     text-align:center;
+    background: khaki;
 }
 
 ul{
     display: table;
     margin: 0 auto;
+    
 }
 
 ol{
     display: table;
     margin: 0 auto;
+    
 }
 
 img{
     height: auto;
     width: 400px;
+    
 }
-.say-what{
-    color:blueviolet;
-    background-color: yellow;
+
+.topcontainer{
+    color: red;
+    display:flex;
+    justify-items: center;
+    justify-content: center;
+
 }
+
+.topcontainer div{
+    background: beige;
+    border: 4px solid orange;
+    
+    padding: 20px;
+}
+
+
+
+.monkeystructure{
+
+    border: 10px solid orange
+}
+
+.song{
+    background: khaki;
+}
+
 
 p {
     color: rgb(65, 209, 214);
     font-family: "Times New Roman", sans-serif;
     font-size: 24px;
+}
+
+.extramargin{
+    margin: 50px;
+
 }
